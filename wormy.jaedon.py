@@ -25,7 +25,7 @@ GREEN     = (  0, 0,   255)
 DARKGREEN = (  0, 155,   0)
 DARKGRAY  = ( 40,  40,  40)
 BLUE      = (  0,   0, 255)  #added the color BLUE to the colors
-BGCOLOR = BLACK
+BGCOLOR = WHITE
 
 UP = 'up'
 DOWN = 'down'
